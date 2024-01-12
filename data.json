@@ -1,0 +1,42 @@
+{
+  "templete": [
+    {
+      "id": 1,
+      "img": "./assets/image/services1.svg",
+      "name": "Strategy Planning",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    },
+    {
+      "id": 2,
+      "img": "./assets/image/services2.svg",
+      "name": "Insurance Service",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    },
+    {
+      "id": 3,
+      "img": "./assets/image/services3.svg",
+      "name": "Audit & Evaluation",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "img": "./assets/image/services1.svg",
+      "name": "Strategy Planning",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    },
+    {
+      "id": 2,
+      "img": "./assets/image/services2.svg",
+      "name": "Insurance Service",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    },
+    {
+      "id": 3,
+      "img": "./assets/image/services3.svg",
+      "name": "Audit & Evaluation",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nostrum explicabo quos corrupti aut? Libero!"
+    }
+  ]
+}
